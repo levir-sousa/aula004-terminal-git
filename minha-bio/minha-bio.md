@@ -1,0 +1,3 @@
+# Olá seja bem vindo a minha biografia
+## Meu nome é Levir Sousa e vou contar um pouco sobre mim!
+### Tenho 21 anos estou em busca de uma imersão mais no mercado de Tecnologia, sempre tive afinidade com essa aréa e esse ano após muita luta consegui arrumar minha rotina para me adaptar a labenu, devido problemas familiares desde de 2020 estive trabalhando exaustivamente para ajudar meus pais a deixar as contas em dias. Enfim em 2022 conseguimos voltar aos trilhos e por acaso ou não, tive a oportunidade de engressar na labenu e apostei todas minhas fichas nisso. Enfim sei que ficou bem curto mas espero algum dia conhecer um pouco todos vocês e me tornar uma pessoa cada vez melhor a cada dia.
